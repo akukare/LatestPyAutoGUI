@@ -1,0 +1,21 @@
+driver:
+  timeout:
+    click: 10
+    exists: 15
+  pause_between_actions: 0.5
+  fail_safe: true
+  confidence: 0.9
+
+retry:
+  max_retries: 3
+  backoff_factor: 1.5
+
+reports:
+  html_dir: "reports/html"
+  screenshots_dir: "reports/screenshots"
+
+application:
+  exe: "C:/Program Files/MyApp/MyApp.exe"
+  launch_args: "--mode production"
+  launch_timeout: 30
+  launch_marker_image: "assets/images/login__username_field.png"

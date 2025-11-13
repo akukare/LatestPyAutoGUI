@@ -1,0 +1,6 @@
+2025-11-10 15:14:18,738 [INFO] Launching application: C:\Users\60165\Downloads\MED-100WIN-CD-490_12-4-0-0_Win64\setup.exe
+2025-11-10 15:14:19,115 [INFO] Waiting 5 seconds for installer window…
+2025-11-10 15:14:24,117 [INFO] Closing window via Alt+F4…
+2025-11-10 15:14:24,723 [INFO] Opening Windchill: https://plmtvdr3.plmtestlab.com
+2025-11-10 15:14:24,724 [INFO] ====== WebDriver manager ======
+2025-11-10 15:14:29,916 [INFO] Get LATEST chromedriver version for google-chrome

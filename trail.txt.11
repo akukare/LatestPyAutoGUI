@@ -1,0 +1,113 @@
+﻿!trail file version No. 2530
+!Creo  TM  12  (c) 2025 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 21660
+!	Application: Creo_Parametric
+!	Start date&time: 2025/11/12  11:41:31
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 12.4.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\pyautogui\traceback.log
+!end Exit Logger data.
+< 0 1.193481 1910 0 0 1007 1920 0 0 1080 13
+!mem_use INCREASE Blocks 992249, AppSize 17619392, SysSize 38547176
+< 0 1.077000 1077 0 0 998 1920 0 0 1080 13
+< 0 1.081000 1081 0 0 998 1920 0 0 1080 13
+< 0 1.081000 1081 0 0 1002 1920 0 0 1080 13
+< 0 1.081000 1081 0 0 1006 1920 0 0 1080 13
+< 0 0.973000 973 0 0 1006 1920 0 0 1080 13
+< 0 0.832000 1610 0 0 702 1920 0 0 1080 13
+< 0 0.832000 1546 0 0 702 1920 0 0 1080 13
+< 0 0.830815 1546 0 0 701 1920 0 0 1080 13
+< 0 0.845037 1558 0 0 713 1920 0 0 1080 13
+!%CD12-Nov-25 11:41:33
+!%CI11:41:33 Welcome to Creo Parametric 12.4.0.0.
+!AFX datecode: 12.4.0.0-rc.1 2025.03.05
+!AFX exec path: C:\Program Files\PTC\Creo 12.4.0.0\Common Files\afx\x86e_win64\afx120.dll
+!AFX text path: C:\Program Files\PTC\Creo 12.4.0.0\Common Files\afx\
+< 0 0.845037 1655 0 0 713 1920 0 0 1080 13
+!mem_use INCREASE Blocks 1048561, AppSize 50097409, SysSize 72591048
+< 0 0.837926 1655 0 0 707 1920 0 0 1080 13
+~ Select `main_dlg_cur` `appl_casc`
+~ Select `main_dlg_cur` `appl_menu.left_pane.manage_session_casc`
+~ Close `main_dlg_cur` `appl_menu.left_pane.manage_session_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdUtilWebRegServ` 
+~ Select `siteregistrydialog` `MenuBar1` 1 `ServerMenuPane`
+~ Close `siteregistrydialog` `MenuBar1`
+~ Activate `siteregistrydialog` `ServerRegisterNewPshBtn`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `w`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `wi`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `win`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `wind`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `windc`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `windch`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `windchi`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `windchil`
+~ Input `registernewserverdlg` `NewServerNameIPanel` `windchill`
+~ Update `registernewserverdlg` `NewServerNameIPanel` `windchill`
+~ FocusOut `registernewserverdlg` `NewServerNameIPanel`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `h`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `ht`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `htt`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `http`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https:`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https:/`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://p`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://pl`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plm`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmt`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtv`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvd`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.p`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.pl`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plm`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmt`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmte`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtes`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtest`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestl`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestla`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.c`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.co`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/W`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Wi`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Win`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Wind`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Windc`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Windch`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Windchi`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Windchil`
+~ Input `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Windchill`
+~ Update `registernewserverdlg` `NewServerLocationIPanel` `https://plmtvdr3.plmtestlab.com/Windchill`
+~ FocusOut `registernewserverdlg` `NewServerLocationIPanel`
+~ Activate `registernewserverdlg` `NewServerCheckPshBtn`
+~ Activate `registernewserverdlg` `NewServerOKPshBtn`
+~ Select `siteregistrydialog` `ServersTable` 2 `ServerName_1` `server`
+~ RButtonArm `siteregistrydialog` `ServersTable` 2 `ServerName_1` `server`
+~ PopupOver `siteregistrydialog` `ServerMenuPane` 1 `ServersTable`
+~ Open `siteregistrydialog` `ServerMenuPane`
+~ Close `siteregistrydialog` `ServerMenuPane`
+~ Activate `siteregistrydialog` `ServerDeletePshBtn`
+! Message Dialog: Question
+!               : Server "windchill" will be removed from Server Management
+~ Activate `UI Message Dialog` `ok`
+~ Close `siteregistrydialog` `siteregistrydialog`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

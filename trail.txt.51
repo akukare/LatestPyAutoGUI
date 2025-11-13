@@ -1,0 +1,45 @@
+﻿!trail file version No. 2530
+!Creo  TM  12  (c) 2025 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 12732
+!	Application: Creo_Parametric
+!	Start date&time: 2025/11/12  16:31:31
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: 12.4.0.0
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: C:\pyautogui\traceback.log
+!end Exit Logger data.
+< 0 1.193481 1910 0 0 1007 1920 0 0 1080 13
+!mem_use INCREASE Blocks 992271, AppSize 17635939, SysSize 38498952
+< 0 1.077000 1077 0 0 998 1920 0 0 1080 13
+< 0 1.081000 1081 0 0 998 1920 0 0 1080 13
+< 0 1.081000 1081 0 0 1002 1920 0 0 1080 13
+< 0 1.081000 1081 0 0 1006 1920 0 0 1080 13
+< 0 0.973000 973 0 0 1006 1920 0 0 1080 13
+< 0 0.832000 1610 0 0 702 1920 0 0 1080 13
+< 0 0.832000 1546 0 0 702 1920 0 0 1080 13
+< 0 0.830815 1546 0 0 701 1920 0 0 1080 13
+< 0 0.845037 1558 0 0 713 1920 0 0 1080 13
+!%CD12-Nov-25 16:31:39
+!%CI16:31:39 Welcome to Creo Parametric 12.4.0.0.
+!AFX datecode: 12.4.0.0-rc.1 2025.03.05
+!AFX exec path: C:\Program Files\PTC\Creo 12.4.0.0\Common Files\afx\x86e_win64\afx120.dll
+!AFX text path: C:\Program Files\PTC\Creo 12.4.0.0\Common Files\afx\
+< 0 0.845037 1655 0 0 713 1920 0 0 1080 13
+!mem_use INCREASE Blocks 1048639, AppSize 50036638, SysSize 72591160
+< 0 0.837926 1655 0 0 707 1920 0 0 1080 13
+~ Key `splash_dlg` `splash_parent` 67108864 `Alt`
+~ Select `main_dlg_cur` `appl_casc`
+~ Select `main_dlg_cur` `appl_menu.left_pane.manage_session_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdUtilWebRegServ` 
+~ Close `siteregistrydialog` `siteregistrydialog`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
